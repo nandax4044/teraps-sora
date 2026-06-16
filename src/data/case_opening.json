@@ -1,0 +1,239 @@
+{
+  "chests": [
+    {
+      "id": "rarechest",
+      "name": "Rare Chest",
+      "price": 50,
+      "icon": "🎣",
+      "color": "from-cyan-500 to-blue-600",
+      "background": "linear-gradient(135deg, #091728 0%, #0d273c 100%)",
+      "image": "/images/citemchest.png",
+      "items": [
+        {
+          "name": "Susano",
+          "chance": 5,
+          "icon": "Susano",
+          "color": "#a1a1aa",
+          "image": "/images/SUSANO.png"
+        },
+         {
+          "name": "Easter Block 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/easter.jpg"
+        },
+        {
+          "name": "Lbox 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/lbox.jpg"
+        },
+        {
+          "name": "pure magic 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/easter.jpg"
+        },
+        {
+          "name": "vein 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/vein.jpg"
+        },
+        {
+          "name": "dark stone 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/darkstone.jpg"
+        },
+        {
+          "name": "Magplant 15K",
+          "chance": 22,
+          "icon": "🧵",
+          "color": "#a855f7",
+          "image": "/images/mag15.jpg"
+        },
+        {
+          "name": "Arroz",
+          "chance": 80,
+          "icon": "🎣",
+          "color": "#eab308",
+          "image": "/images/arroz.png"
+        },
+        {
+          "name": "10 Bgl",
+          "chance": 50,
+          "icon": "🎣",
+          "color": "#eab308",
+          "image": "/images/bgl1.png"
+        }
+        
+      ]
+    },
+    {
+      "id": "mythicchest",
+      "name": "Mythic Chest",
+      "price": 80,
+      "icon": "🌾",
+      "color": "from-[#38bdf8] to-[#0369a1]",
+      "background": "linear-gradient(135deg, #04121d 0%, #0f2d45 100%)",
+      "image": "/images/chestbgl.png",
+      "items": [
+        {
+          "name": "serpent",
+          "chance": 1,
+          "icon": "🔱",
+          "color": "#a1a1aa",
+          "image": "/images/serpentnusa.jpg"
+        },
+        {
+          "name": "Easter Block 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/easter.jpg"
+        },
+        {
+          "name": "Lbox 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/lbox.jpg"
+        },
+        {
+          "name": "pure magic 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/puremagic.jpg"
+        },
+        {
+          "name": "vein 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/vein.jpg"
+        },
+        {
+          "name": "dark stone 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/darkstone.jpg"
+        },
+        {
+          "name": "Mag 100k",
+          "chance": 3,
+          "icon": "🍎",
+          "color": "#eab308",
+          "image": "/images/mag15knusa.jpg"
+        },
+        {
+          "name": "battrey",
+          "chance": 80,
+          "icon": "🍎",
+          "color": "#eab308",
+          "image": "/images/battrey.png"
+        },
+        {
+          "name": "20 bgl",
+          "chance": 50,
+          "icon": "🍎",
+          "color": "#eab308",
+          "image": "/images/bgl1.png"
+        }
+
+      ]
+    },
+    {
+      "id": "sceret",
+      "name": "Secret Chest",
+      "price": 120,
+      "icon": "⚔️",
+      "color": "from-sky-400 to-indigo-600",
+      "background": "linear-gradient(135deg, #081123 0%, #0d2346 100%)",
+      "image": "/images/secretchest.png",
+      "items": [
+        {
+          "name": "Mag 100k",
+          "chance": 10,
+          "icon": "🔱",
+          "color": "#a1a1aa",
+          "image": "/images/mag15knusa.jpg"
+        },
+        {
+          "name": "Easter Block 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/easter.jpg"
+        },
+        {
+          "name": "Lbox 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/lbox.jpg"
+        },
+        {
+          "name": "pure magic 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/easter.jpg"
+        },
+        {
+          "name": "vein 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/vein.jpg"
+        },
+        {
+          "name": "dark stone 10",
+          "chance": 80,
+          "icon": "Gacha",
+          "color": "#a1a1aa",
+          "image": "/images/darkstone.jpg"
+        },
+        {
+          "name": "Mag 5000",
+          "chance": 40,
+          "icon": "🔑",
+          "color": "#a855f7",
+          "image": "/images/magplant.png"
+        },
+        {
+          "name": "Leonidas",
+          "chance": 5,
+          "icon": "🍎",
+          "color": "#eab308",
+          "image": "/images/leonidas.jpg"
+        },
+        {
+          "name": "Arroz",
+          "chance": 5,
+          "icon": "🌾",
+          "color": "#eab308",
+          "image": "/images/arroz.png"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "classicRealisticEasing": true,
+    "spinEasing": "cubic-bezier(0.04, 0.84, 0.12, 1)",
+    "soundTickFrequencyHz": 220,
+    "showInteractiveSettings": true,
+    "maxTapeSize": 65,
+    "winningTargetIndex": 52,
+    "pointerShadowGlowHex": "#38bdf8",
+    "winRateMultiplier": 1.0,
+    "mythicChanceBoost": 0.0
+  }
+}

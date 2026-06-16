@@ -1,0 +1,31 @@
+{
+  "crashSettings": {
+    "countdownSeconds": 3,
+    "defaultPickMultiplier": "2.00",
+    "multiplierTickIntervalMs": 100,
+    "growthCoefficient": 0.00012,
+    "soundVolumeMultiplier": 0.1,
+    "maxPossibleMultiplier": 100.0,
+    "enableStarsBackground": true,
+    "starDensityCount": 95,
+    "starsDriftWarpSpeed": 1.4,
+    "cometParticleColor": "#38bdf8",
+    "chartGlowBorderHex": "#38bdf8",
+    "houseEdgeFactor": 1.0,
+    "probabilityWeights": {
+      "earlyCrashChance": 0.45,
+      "earlyCrashMax": 2.99,
+      "mediumCrashChance": 0.35,
+      "mediumCrashMax": 6.99,
+      "highCrashChance": 0.16,
+      "highCrashMax": 15.99,
+      "jackpotCrashChance": 0.04,
+      "jackpotCrashMax": 100.0
+    }
+  },
+  "leaderboard": [
+    { "name": "Dewajitu_Gacor", "score": 9840, "date": "2026-05-28" },
+    { "name": "Sutan_Jackpot", "score": 7520, "date": "2026-05-28" },
+    { "name": "Raja_Scatter", "score": 4900, "date": "2026-05-28" }
+  ]
+}

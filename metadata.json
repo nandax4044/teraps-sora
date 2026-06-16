@@ -1,0 +1,6 @@
+{
+  "name": "Prize Wheel Spinner",
+  "description": "An interactive casino arcade featuring a premium Chest Case Opening game, a real-time Crash game, and a highly customizable prize wheel spinner with local storage persistence and custom synthesizer audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

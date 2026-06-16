@@ -103,6 +103,12 @@ export default function App() {
             placeholder="••••••••"
             autoFocus
           />
+          <button
+            type="submit"
+            className="w-64 py-3 bg-gradient-to-r from-sky-500 to-sky-600 hover:from-sky-400 hover:to-sky-500 text-white font-black font-display text-sm rounded-xl tracking-wide transition-all shadow-lg shadow-sky-900/40 hover:shadow-sky-500/25 cursor-pointer active:scale-95"
+          >
+            ENTER
+          </button>
         </form>
       </div>
     );
